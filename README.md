@@ -9,6 +9,6 @@
 - :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook)
 - :heart: Kafka, Kubernetes, Pandas, Jupyter, Keras (Tensorflow), DynamoDB, Redis, Postgres, Elasticsearch, AWS, Linux
 
-## Stats
+## GitHub Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true&count_private=true&hide_title=true&hide=stars)
