@@ -5,7 +5,7 @@
 ## About
 
 - :office: CTO at [JW Player](https://www.jwplayer.com/)
-- :keyboard: Python and Go
+- :keyboard: Python :snake: and Go :hamster:
 - :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook) and distributed systems
 - :heart: Kafka, Kubernetes, Pandas, Jupyter, Keras (Tensorflow), DynamoDB, Redis, Postgres, Elasticsearch, AWS, Linux
 
