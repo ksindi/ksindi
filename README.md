@@ -9,7 +9,7 @@
 - :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook)
 - :heart: Kafka, Kubernetes, Pandas, Jupyter, Keras (Tensorflow), DynamoDB, Redis, Postgres, Elasticsearch, AWS, Linux
 - Favorite projects: 
-  - [Polylog: A Log-Based Architecture for Distributed Systems](https://www.slideshare.net/KamilSindi/polylog-a-logbased-architecture-for-distributed-systems)
+  - [Polylog: A log-based architecture for distributed systems](https://www.slideshare.net/KamilSindi/polylog-a-logbased-architecture-for-distributed-systems)
   - [Building turn-key recommendations for 5% of internet video](https://www.slideshare.net/KamilSindi/building-turnkey-recommendations-for-5-of-internet-video)
   - [Video thumbnail selection with CNNs](https://www.slideshare.net/KamilSindi/intelligent-thumbnail-selection)
 
