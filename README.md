@@ -13,6 +13,9 @@
   - [Building turn-key recommendations for 5% of internet video](https://www.slideshare.net/KamilSindi/building-turnkey-recommendations-for-5-of-internet-video)
   - [Video thumbnail selection with CNNs](https://www.slideshare.net/KamilSindi/intelligent-thumbnail-selection)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true)
 
 [Join JW Player!](https://www.jwplayer.com/careers/)
+
+## Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true)
