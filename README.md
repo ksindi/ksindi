@@ -11,4 +11,4 @@
 
 ## GitHub Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true&count_private=true&hide_title=true&hide=stars)
+![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true&count_private=true&hide_title=true)
