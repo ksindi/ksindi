@@ -4,10 +4,10 @@
 
 ## About
 
-- :office: CTO at [JW Player](https://www.jwplayer.com/)
-- :keyboard: Python :snake: and Go :hamster:
-- :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook) and [distributed systems](https://www.slideshare.net/slideshow/embed_code/key/6UhwbIb4rMrJy4)
-- :heart: Kafka, Kubernetes, Pandas, Jupyter, Keras (Tensorflow), DynamoDB, Postgres, Elasticsearch, AWS, Linux
+1. :office: CTO at [JW Player](https://www.jwplayer.com/)
+1. :keyboard: Python :snake: and Go :hamster: on :atom:
+1. :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook) and [distributed systems](https://www.slideshare.net/slideshow/embed_code/key/6UhwbIb4rMrJy4)
+1. :heart: Kafka, Kubernetes, Pandas, Jupyter, Keras (Tensorflow), DynamoDB, Postgres, Elasticsearch, AWS, Linux
 
 ## GitHub Stats
 
