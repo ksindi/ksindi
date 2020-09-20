@@ -6,6 +6,7 @@ First of all, I'm looking forward to getting to know you!
 
 1. The creation has helped me identify and refine my thoughts and values.
 1. Hopefully this will help you understand me better and help us work together.
+1. This isn't a substitute for us getting to know each other. Feel free to not read this.
 
 ## Management Style
 
@@ -95,7 +96,7 @@ First of all, I'm looking forward to getting to know you!
 1. I've [written](https://github.com/ksindi/managers-playbook) thoughts on engineering management I live by.
 1. I love CI/CD because it [optimizes for
 iteration speed](https://erikbern.com/2017/07/06/optimizing-for-iteration-speed.html), which is crucial in a startup environment.
-1. I think [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles) is the best document ever written on being a leader.
+1. I think [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles) is the best document written on being a leader.
 1. I like monorepos, but I don't like monoliths or shared libraries that couple systems and
 development.
 1. I'm a fan of [log-based architectures](https://www.slideshare.net/KamilSindi/polylog-a-logbased-architecture-for-distributed-systems) over traditional service oriented architectures. Happy to chat more about it!
