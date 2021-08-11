@@ -6,19 +6,16 @@ First of all, I'm looking forward to getting to know you!
 
 1. The creation has helped me identify and refine my thoughts and values.
 1. Hopefully this will help you understand me better and help us work together.
-1. This isn't a substitute for us getting to know each other. Feel free to not read this.
+1. This isn't a substitute for us getting to know each other.
 
 ## Management Style
 
 1. **Collaborative**  
-    1. I like to discuss decisions early and iterate on their execution together. I
-    generally will share ideas in a 1-1 setting before socializing it to a wider
-    audience.
     1. It's important to me that we have a culture of speaking openly,
     helping each other out and respecting our differences in perspective. That said,
-    we have to disagree and commit when we can't come to a consensus.
+    we have to disagree and commit to a decision when we can't come to a consensus.
 1. **Deep diver** 
-    1. I'm not a micromanager but I like to dive deep into details and get my hands
+    1. I'm not a micromanager, but I like to dive deep into details and get my hands
     dirty. It’s how I will know how to help if you need me later.
 1. **Bias for action**
     1. I expect us to move fast when it comes to making ["reversible" decisions](https://github.com/ksindi/managers-playbook#making-decisions)
@@ -34,7 +31,7 @@ First of all, I'm looking forward to getting to know you!
     1. I like to make agreements on "how we do things" that we then agree to
     make exceptions on as a group instead of everyone inventing their own process.
 1. **Data informed**
-    1. I like data and dashboards so there is an objective way to measure progress and
+    1. I love data and dashboards so there is an objective way to measure progress and
     results.
     1. If we're discussing something and you know of data that would
     be useful to our decision, bring it up.
@@ -61,7 +58,7 @@ First of all, I'm looking forward to getting to know you!
     ambitions are for the future, etc. These help me know where you are in terms of
     personal development interests and ambitions with respect to longer-term
     plans.
-    1. Personal goals—I believe in the two of us reviewing the top 3-5 personal goals
+    1. Personal goals—I believe in the two of us reviewing the top 3 personal goals
     you have each quarter or so (these are the things that you personally spend your
     time on, not your team plans, which I know you also spend time on). We can
     discuss them each quarter and then mark out a plan on how we make sure you
@@ -96,10 +93,9 @@ First of all, I'm looking forward to getting to know you!
 1. I've [written](https://github.com/ksindi/managers-playbook) thoughts on engineering management I live by.
 1. I love CI/CD because it [optimizes for
 iteration speed](https://erikbern.com/2017/07/06/optimizing-for-iteration-speed.html), which is crucial in a startup environment.
-1. I think [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles) is the best document written on being a leader.
 1. I like monorepos, but I don't like monoliths or shared libraries that couple systems and
 development.
-1. I'm a fan of [log-based architectures](https://www.slideshare.net/KamilSindi/polylog-a-logbased-architecture-for-distributed-systems) over traditional service oriented architectures. Happy to chat more about it!
+1. I'm a big fan of serverless and event driven architecture.
 1. I subscribe to the Toyota philosophy of quality assurance:
 DevOps, security and QA are everyone's jobs and we need to continuously improve on it as a culture.
 
