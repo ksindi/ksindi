@@ -4,6 +4,6 @@
 
 1. :office: Head of Engineering at [Lithic](https://www.lithic.com/) and [privacy.com](https://www.privacy.com) 💳.
 1. :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook) and [distributed systems](https://www.slideshare.net/slideshow/embed_code/key/6UhwbIb4rMrJy4).
-1. :heart: Serverless, Rust, Jupyter, Linux.
+1. :heart: Serverless, Rust, Linux.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true&count_private=true&hide_title=true)
