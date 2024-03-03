@@ -4,6 +4,6 @@
 
 1. :office: Head of Engineering at [Runway](https://runwayml.com/) 🎥.
 1. :speech_balloon: Ask me about [engineering management](https://github.com/ksindi/managers-playbook).
-1. :heart: Math, Rust, Linux.
+1. :heart: Math, ML, Distributed Systems, Rust, Linux, Biology, History.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ksindi&show_icons=true&count_private=true&hide_title=true)
